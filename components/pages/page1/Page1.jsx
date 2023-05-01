@@ -1,11 +1,15 @@
-import { Page, Text, View } from '@react-pdf/renderer'
-import React from 'react'
+import { Page, Text, View, Image } from '@react-pdf/renderer'
+import React, { useEffect, useState } from 'react'
+import { createChart1 } from '../../../createChart'
+import { convertDataForChart } from '../../../utils/ConvertData'
+import { genusData } from '../../../data'
+import PieChart from '../../common/PieChart'
 
-function Page1() {
+function Page1({ data }) {
+
     return (
         <Page>
-            <Text style={{ color: "blue" }}>Hello, World!</Text>
-            <View style={{ width: "100px", height: "100px", backgroundColor: "red" }} />
+            <PieChart chartimg={data} />
         </Page>
     )
 }

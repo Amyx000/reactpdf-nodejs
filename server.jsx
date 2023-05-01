@@ -3,10 +3,12 @@ import React from 'react';
 import express, { Express, Request, Response } from 'express';
 import PdfMain from './components/PdfMain';
 import ReactPDF from '@react-pdf/renderer';
+import { createChart1 } from './createChart';
 const app = express()
 
 app.get('/', async (req, res) => {
-  const pdfStream = await ReactPDF.renderToStream(<PdfMain />);
+  const chart1 = await createChart1();
+  const pdfStream = await ReactPDF.renderToStream(<PdfMain data={chart1} />);
   // res.setHeader('Content-Type', 'application/pdf');
   // res.setHeader('Content-Disposition', 'inline; filename="MyDocument.pdf"');
   // pdfStream.pipe(res);

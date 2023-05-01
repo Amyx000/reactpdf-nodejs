@@ -1,0 +1,16 @@
+export const genusData = {
+    "Faecalibacterium": "130",
+    "Bacteroides": "221",
+    "Ruminococcus": "323",
+    "Phocaeicola": "34",
+    "Eubacterium": "43",
+    "Roseburia": "34",
+    "Clostridium": "434",
+    "Blautia": "90",
+    "Alistipes": "65",
+    "Sutterella": "343",
+    "Lactonifactor": "454",
+    "Bifidobacterium": "32",
+    "Dialister": "76",
+    "Others": "1100",
+}
