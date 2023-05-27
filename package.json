@@ -5,23 +5,26 @@
   "main": "server.jsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist",
     "dev": "nodemon --exec babel-node server.jsx",
-    "start": "node server.jsx",
-    "start:prod": "node server.jsx"
+    "start": "node dist/server.js",
+    "start:prod": "node dist/server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@pdfme/generator": "^1.1.10",
-    "@pdfme/ui": "^1.1.10",
+    "@aws-sdk/client-s3": "^3.329.0",
+    "@aws-sdk/lib-storage": "^3.329.0",
     "@react-pdf/renderer": "^3.1.9",
     "canvas": "^2.11.2",
     "chart.js": "^3.9.1",
-    "chartjs-node-canvas": "^4.1.6",
-    "d3": "^7.8.4",
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "react": "^17.0.2",
-    "svg2img": "^1.0.0-beta.2"
+    "kafkajs": "^2.2.4",
+    "mongoose": "^7.1.0",
+    "pdf-merger-js": "^4.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.21.0",

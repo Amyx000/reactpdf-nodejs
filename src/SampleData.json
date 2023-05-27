@@ -1,0 +1,414 @@
+{
+  "topSpeciesBacteria": {
+    "Phocaeicola plebeius": 12.44728506,
+    "Roseburia sp. CAG:197": 6.016956226,
+    "Bacteroides caccae": 5.190211019,
+    "Roseburia [Eubacterium] rectale": 4.676675053,
+    "Roseburia inulinivorans": 3.78196185,
+    "Streptococcus salivarius": 2.973897905,
+    "Roseburia intestinalis": 2.846308861,
+    "Bacteroides xylanisolvens": 2.826037704,
+    "Streptococcus parasanguinis": 2.547011197,
+    "Mediterraneibacter [Ruminococcus] torques": 2.510841094
+  },
+  "topSpeciesArchaea": {
+    "Halogeometricum borinquense": 94.28571429,
+    "Methanobrevibacter smithii": 2.857142857,
+    "Methanocorpusculum labreanum": 2.857142857
+  },
+  "topSpeciesFungi": {
+    "Naumovozyma castellii": 33.33333333,
+    "Naumovozyma dairenensis": 33.33333333,
+    "Schizosaccharomyces pombe": 33.33333333
+  },
+  "topSpeciesVirus": {
+    "Lagaffevirus": 27.23004695,
+    "Mushuvirus": 14.55399061,
+    "None": 1.877934272,
+    "Punavirus": 5.633802817,
+    "Toutatisvirus": 5.633802817,
+    "Lederbergvirus": 3.286384977,
+    "Sawaravirus": 1.877934272
+  },
+  "composition": {
+    "Bacteria": 79.46428571,
+    "archaea": 1.785714286,
+    "Fungi": 1.785714286,
+    "virus": 16.96428571
+  },
+  "diversityIndeces": [
+    {
+      "Shannon index": 4.048248092,
+      "remark": "Score of 4.04824809194074 indicates high bacterial richness in your gut microbiome"
+    },
+    {
+      "Simpson index": 0.163673747,
+      "remark": "Simpson index of 0.163673747104074 represents low degree of diversity"
+    },
+    {
+      "Pielou index": 0.782096404,
+      "remark": "Pielou index of 0.782096403909041 indicates a moderately even gut diversity with domanance of certain species"
+    }
+  ],
+  "biomeScore": {
+    "GMHI Score": -1.322394702,
+    "remark": "Your gut biome score is Negative, which means that the balance of microorganisms in your digestive tract needs to be improved. This imbalance could be caused by factors such as poor diet, stress or antibiotic use."
+  },
+  "enterotype": {
+    "Bacteroides": 15.33135391,
+    "Prevotella": 0.356931344,
+    "Ruminococcus": 3.439737031
+  },
+  "enterotypeRemarks": "If you are Type 1 Bacteroides, it is very possible that you eat a high protein diet. Bacteroides helps break complex carbohydrates and produce SCFAs. This enterotype is linked with lower risk of metabolic disorders and obesity. However, the Bacteroides type has a high vulnerability towards inflammation and IBD.",
+  "keystoneSpecies": [
+    {
+      "bacteria": "Alistipes_finegoldii",
+      "abundance": 0.013911578,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Alistipes_shahii",
+      "abundance": 0.446362917,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Anaerostipes_hadrus",
+      "abundance": 0.286181033,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Bacteroides_cellulosilyticus",
+      "abundance": 0.072737679,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Bacteroides_ovatus",
+      "abundance": 0.555668173,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Bacteroides_thetaiotaomicron",
+      "abundance": 0.420924603,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Bacteroides_xylanisolvens",
+      "abundance": 2.826037704,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Bifidobacterium_dentium",
+      "abundance": 0.021066104,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Blautia_obeum",
+      "abundance": 0.571964593,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Coprococcus_catus",
+      "abundance": 0.030605472,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Faecalibacterium_prausnitzii",
+      "abundance": 2.184912695,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Haemophilus_parainfluenzae",
+      "abundance": 1.165790237,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Odoribacter_splanchnicus",
+      "abundance": 0.523472807,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Parabacteroides_distasonis",
+      "abundance": 0.624828589,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Roseburia_hominis",
+      "abundance": 0.199531776,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Roseburia_intestinalis",
+      "abundance": 2.846308861,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Ruminococcus_bicirculans",
+      "abundance": 1.441636956,
+      "range": "In-Range"
+    },
+    {
+      "bacteria": "Streptococcus_parasanguinis",
+      "abundance": 2.547011197,
+      "range": "High"
+    },
+    {
+      "bacteria": "Streptococcus_salivarius",
+      "abundance": 2.973897905,
+      "range": "High"
+    },
+    {
+      "bacteria": "Veillonella_parvula",
+      "abundance": 0.554078278,
+      "range": "In-Range"
+    }
+  ],
+  "keystoneFoodRecommendations": "Yogurt, Buttermilk, Clove, Oregano, Thyme, Cinnamon, Cumin seeds, Rosemary, Black pepper.\",",
+  "probiotic": [
+    {
+      "bacteria": "Bacteroides_fragilis",
+      "abundance": 0.565207541,
+      "interpretation": "Produces Thiamine (Vitamin B1) in the intestine. Produces Vitamin B2 in the gut. Bacteria with Vitamin B3 biosynthesis pathway in the gut microbiome. Synthesizes Vitamin B5 in the gut. Produces Vitamin B6 in the gut. Vitamin B7 producing bacteria. Vitamin B9 synthesizing bacteria. Synthesizes Vitamin B12 in the gut. Vitamin K producing bacteria. Succinate producer. Involved in gluten degradation. Involved in the production of carbohydrate active enzymes. Propionate producer."
+    }
+  ],
+  "pathogen": [
+    {
+      "bacteria": "Bilophila_wadsworthia",
+      "abundance": 0.066775574
+    },
+    {
+      "bacteria": "Klebsiella_pneumoniae",
+      "abundance": 0.714657636
+    },
+    {
+      "bacteria": "Clostridium_perfringens",
+      "abundance": 0.054453891
+    },
+    {
+      "bacteria": "Fusobacterium_nucleatum",
+      "abundance": 0.012321683
+    },
+    {
+      "bacteria": "Bacteroides_caccae",
+      "abundance": 5.190211019
+    },
+    {
+      "bacteria": "Parabacteroides_distasonis",
+      "abundance": 0.624828589
+    }
+  ],
+  "pathogenIndication": "Your Pathogen Profile indicates that you are prone to bloating. Drink plenty of water and follow the food recommendations.",
+  "genusAbundance": {
+    "Roseburia": 21.17183184,
+    "Phocaeicola": 18.84899578,
+    "Bacteroides": 15.33135391,
+    "other": 10.77193359,
+    "Streptococcus": 5.990325491,
+    "Clostridium": 5.225983648,
+    "Ruminococcus": 3.439737031,
+    "Faecalibacterium": 3.119770737,
+    "Mediterraneibacter": 2.598682772,
+    "Veillonella": 2.434923625,
+    "Parabacteroides": 1.861369138,
+    "Phascolarctobacterium": 1.634809153,
+    "Alistipes": 1.575585578,
+    "Blautia": 1.565251263,
+    "Haemophilus": 1.175727079,
+    "Lachnospira": 1.108156557,
+    "Barnesiella": 1.085500558,
+    "Coprococcus": 1.060062244
+  },
+  "phylumAbundance": {
+    "Bacteroidetes": 40.44771433,
+    "Firmicutes": 55.88201392,
+    "Proteobacteria": 3.430595137,
+    "other": 0.239676615
+  },
+  "generalRemarks": [
+    "Include fermented food preparations in your diet. Incudes whole grains, fruits, vegetables, nuts and seeds in your diet.",
+    "Your gut report indicates a low lipid metabolism. It is recommended to follow a low fat diet and include fiber rich foods in your diet, for a healthier gut.",
+    "Include a variety of herbs and spices in your diet as they help in flushing out pathogenic bacteria from the gut.",
+    "Include probiotic rich foods in your diet. You can include a probiotic supplement in your regimen."
+  ],
+  "probioticFoodRecomendation": [
+    "Pea protein",
+    "Whey protein",
+    "Yogurt",
+    "Cinnamon",
+    "Pomegranate",
+    "Beetroot",
+    "Navy bean",
+    "Capsicum"
+  ],
+  "pathogenFoodRecomendation": [
+    "Recommendation",
+    "Garlic",
+    "Yogurt",
+    "Turmeric",
+    "Green tea",
+    "Apple",
+    "Pea protein",
+    "Whey protein",
+    "Almond",
+    "Blueberry",
+    "Cranberry beans",
+    "Chickpea"
+  ],
+  "scfa": [
+    {
+      "metabolicProfile": "acetate",
+      "rA": 17.45228641,
+      "range": "45-75",
+      "remarks": "Below Average",
+      "curation": "This value indicates that your gut has a low abundance of Acetate producing microbes, which increases the risk of inflammation and can lead to impaired gut health.",
+      "recommendation": "Cranberry, Grape, Mango, Watermelon, Cabbage, Brussels sprouts, Cauliflower, Broccoli, Beetroot, Tomato, Potato, Oats, Wheat, Lentil, Bean, Turmeric, Cinnamon, Garlic, Flaxseeds, Fenugreek seeds, Soybean oil, Fish oil, Red wine, Dark chocolate, Honey."
+    },
+    {
+      "metabolicProfile": "butyrate",
+      "rA": 41.86627386,
+      "range": "8.025-27.775",
+      "remarks": "Excellent",
+      "curation": "This value indicates that your gut has high abundance of butyrate producing microbes which helps to maintain good anti-inflammatory properties in your gut, and also lowers the risk of developing diseases such as inflammatory bowel disease (IBD), irritable bowel syndrome (IBS), bowel cancer, diabetes and heart disease.",
+      "recommendation": "Grape, Mango, Blueberry, Blackberry, Apple, Date, Almond, Cabbage, Brussels sprouts, Cauliflower, Broccoli,  Capsicum, Oats, Wheat, Barley, Chickpea, Mung bean, Garlic, Turmeric, Red wine, Cocoa."
+    },
+    {
+      "metabolicProfile": "Propionate",
+      "rA": 40.68143973,
+      "range": "13.9-35",
+      "remarks": "Excellent",
+      "curation": "This value indicates a high abundance of Proprionate producing microbes in your gut, which has a protective effect on the intestinal barrier, as well as helps to regulate appetite and improves insulin sensitvity. It also helps to maintain serum cholesterol levels and lowers risk of lipogenesis and carcinogenesis.",
+      "recommendation": "Cranberry, Grape, Mango, Blueberry, Beetroot, Cabbage,  Brussels sprouts, Cauliflower, Broccoli, Potato, Oats, Wheat, Lentil, Bean, Cinnamon, Garlic, Turmeric, Flaxseeds, Fenugreek seeds, Milk, Soybean oil, Fish oil, Red wine, Cocoa."
+    }
+  ],
+  "gutBrain": [
+    {
+      "metabolicProfile": "GABA",
+      "rA": 0.231572,
+      "range": "0.1-10",
+      "remarks": "Good",
+      "curation": "This value indicates an ideal level of GABA producing microbes in your gut which aids in motor control, vision, prevents depression and also helps in calming and relaxation.",
+      "recommendation": "Spinach, Potato, Sweet potato, Kale, Broccoli, Mushroom, Chestnut, Tomato, Oats, Wheat, Barley, Black rice,  Brown rice, White rice, Red rice, Buckwheat, Adzuki bean, Soy bean, Common bean, Pea, Kimchi, Miso, Tempeh, White tea, Green tea, Black tea, Oolong tea."
+    },
+    {
+      "metabolicProfile": "Serotonine",
+      "rA": 0,
+      "range": "0.1-10",
+      "remarks": "Below Average",
+      "curation": "This value indicates a low abundance of Serotonin producing microbes in your gut which can levels lead to irritable bowel syndrome, gastric disorders, anxiety attacks, depression and sleep problems.",
+      "recommendation": "Banana, Pineapple, Plum, Passion fruit, Kiwi, Pomegranate, Strawberry, Hazelnut, Spinach, Tomato, Cherry tomato, Capsicum, Chinese cabbage, Green onion, Lettuce, Wild rice, Paprika, Coffee, Chicory."
+    },
+    {
+      "metabolicProfile": "Dopamine",
+      "rA": 0,
+      "range": "0.1-10",
+      "remarks": "Below Average",
+      "curation": "This value indicates that you have a low abundance of Dopamine producing microbes in your gut which can put you at risk of developing irritable bowel syndrome, gastric disorders and gastroparesis, can lead to depression, anxiety and fatigue. It can also stimulate nausea and vomiting.",
+      "recommendation": "Banana, Avocado, Orange, Spinach, Tomato, Brinjal, Common bean, Pea."
+    }
+  ],
+  "gas": [
+    {
+      "metabolicProfile": "Ammonia",
+      "rA": 0.081903409,
+      "range": "0.195-10",
+      "remarks": "Below Average",
+      "curation": "This value indicates that you have a low abundance of Ammonia producing microbes in your gut, which lowers your risk of developing cognitive disorders and liver diseases. It also aids with blood sugar regulation.",
+      "recommendation": "Consume protein rich foods in optimum quantity. Consume foods from all the food groups for a balanced diet."
+    },
+    {
+      "metabolicProfile": "Methane",
+      "rA": 1.117721525,
+      "range": "0.1-1.65",
+      "remarks": "Very Good",
+      "curation": "This value indicates that you have an ideal level of Methane producing microbes in your gut which helps in increased SCFA production and supports the secretion of glucagon-like peptide-1 (GLP-1) that plays an important role in controlling glucose levels in the body.",
+      "recommendation": "Consume foods from all the food groups for a balanced diet."
+    },
+    {
+      "metabolicProfile": "Hydrogen Sulfide",
+      "rA": 0.073128044,
+      "range": "0.42-3.5",
+      "remarks": "Below Average",
+      "curation": "This value indicates that you have a low abundance of Hydrogen Sulfide producing microbes in your gut which helps in maintaining bowel environment, maintains gut mucus integrity, protects the gut lineage from damage. It also helps to remove inflammation and tissue injury.",
+      "recommendation": "Consume protein rich foods in optimum quantity. Consume foods from all the food groups for a balanced diet."
+    }
+  ],
+  "lipid": [
+    {
+      "metabolicProfile": "Cholesterol",
+      "rA": 0.062077584,
+      "range": "0.4-4.8",
+      "remarks": "Below Average",
+      "curation": "This value indicates a low abundance of Cholesterol metabolising microbes in your gut which is indicative of a high risk of developing obesity, atherosclerosis and cardiovascular disease",
+      "recommendation": "Limit the intake of foods like Milk, Cheese, Butter, Eggs in your diet. Restrict the intake of processed food, processed meats and bakery products."
+    },
+    {
+      "metabolicProfile": "Phospholipid",
+      "rA": 0.064515185,
+      "range": "0.2-6.9",
+      "remarks": "Below Average",
+      "curation": "This value indicates a low abundance of Phospholipid metabolising microbes in your gut which can lead to a high risk of developing inflammation, obesity, cardiovascular disease and impaired immune cell functioning",
+      "recommendation": "Use cooking oils like Soybean oil, Sunflower oil, Rapeseed oil in moderation for cooking. Consumption of foods like Whole Eggs, Chicken, Salmon, Tuna should be limited to one or two times a week."
+    },
+    {
+      "metabolicProfile": "Triglycerides",
+      "rA": 0,
+      "range": "0.3-2.8",
+      "remarks": "Below Average",
+      "curation": "This value indicates a low abundance of Triglyceride metabolising microbes in your gut which indicates you might have a risk for developing acute pancreatitis and atherosclerosis.",
+      "recommendation": "Restrict the intake of Butter, Coconut oil in your diet. Avoid consumption of sugary foods, sugary beverages in your diet."
+    }
+  ],
+  "metabolism": [
+    {
+      "metabolicProfile": "Carbohydrate",
+      "rA": 52.53229923,
+      "range": "61-76",
+      "remarks": "Fair",
+      "curation": "This value indicates a low abundance of Carbohydrate metabolising microbes in your gut which indicates poor glycemic control and risk of weight gain, diabetes and gastric issues like bloating.",
+      "recommendation": "Include whole grains like Oats, Barley, Wheat, Quinoa, Sorghum in your diet. Include foods like Apple, Bean, Peas, Carrot in your diet as they are rich in soluble fiber."
+    },
+    {
+      "metabolicProfile": "Protein",
+      "rA": 36.67352963,
+      "range": "63-77",
+      "remarks": "Fair",
+      "curation": "This value indicates a low abundance of Protein metabolising microbes in your gut, which can lead to a risk of hypertension, cardiovascular disease, inflammation and discomfort. It also indicates a risk of developing diseases like IBS, diabetic neuropathy and colorectal cancer.",
+      "recommendation": "Include good biological value protein sources like Milk, Eggs, Fish, Chicken, Soy Protein Isolate in your diet. Include dals, legumes, sprouts in your diet."
+    }
+  ],
+  "vitamin": [
+    {
+      "metabolicProfile": "Riboflavin",
+      "rA": 18.11095232,
+      "range": "29-58",
+      "remarks": "Fair",
+      "curation": "This value indicates a low abundance of  Vitamin B2 producing microbes in your gut which  indicates  a high risk of developing anemia, cataract, skin disorders, mouth sores and neurological symptoms like confusion and fatigue.",
+      "recommendation": "Apple, Almond, Mushroom, Spinach, Oats, Quinoa, Kidney bean, Sunflower seeds, Milk, Yogurt, Cheese, Eggs, Salmon, Chicken, Cod."
+    },
+    {
+      "metabolicProfile": "Biotin",
+      "rA": 24.47057295,
+      "range": "22-51",
+      "remarks": "Good",
+      "curation": "This value indicates the presence of an ideal level of Vitamin B7 producing microbes in your gut which helps to maintain anti-inflammatory properties in your gut  and also aids in preventing gastrointestional issues such as inflammation, ulcers and irritable bowel syndrome (IBS).",
+      "recommendation": "Avocado, Banana, Almond, Spinach, Sweet potato, Broccoli, Oats, Sunflower seeds, Milk, Yogurt, Cheese, Eggs, Salmon, Tuna."
+    },
+    {
+      "metabolicProfile": "Folate",
+      "rA": 54.80057165,
+      "range": "34-58",
+      "remarks": "Very Good",
+      "curation": "This value indicates the presence of an ideal level of Vitamin B9 producing microbes in your gut which helps to promote cardiac health, boosts red blood cell count and aids in managing mental health issues like depression and cognitive decline.",
+      "recommendation": "Avocado, Orange, Papaya, Muskmelon, Ground nut,  Spinach, Romaine lettuce, Turnip greens,  Asparagus, Broccoli, Brussels sprouts, Cabbage, Kale, Spring onion, Mustard greens, Tomato juice,  Rice, Wheat germ, Kidney bean, Chickpeas, Peas, Cowpea, Sunflower seeds, Eggs, Halibut."
+    },
+    {
+      "metabolicProfile": "Cobalamine",
+      "rA": 2.617903079,
+      "range": "18-48",
+      "remarks": "Below Average",
+      "curation": "This value indicates  a low abundace of Vitamin B12 producing microbes in your gut which indicates that you might have a decreased bone mineral density and a high risk of of developing anemia.",
+      "recommendation": "Milk, Yogurt, Cheese, Tempeh, Eggs, Salmon, Tuna, Clams, Turkey."
+    }
+  ],
+  "patientName": "Parth Patel",
+  "barcode": "5876"
+}
